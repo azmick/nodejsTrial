@@ -1,0 +1,14 @@
+/*Kullanıcıdan alınan bütün veriler buraya bir
+deneme olarak yazılıyor daha sonrasında bu mesajları
+direkt olarak nasıl alacağız onu da message2.txt'den öğreneceğiz.*/
+
+deneme
+deneme
+deneme
+deneme
+deneme
+deneme
+deneme
+deneme
+deneme
+deneme
